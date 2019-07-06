@@ -189,3 +189,13 @@
             transform: translate(-50%, 0%);
   }
 }
+
+.wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+video {
+  width: 720px;
+  height: 480px;
+}
